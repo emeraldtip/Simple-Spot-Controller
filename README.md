@@ -1,6 +1,7 @@
 # Simple Spot Controller
 A small, very basic and simple to use Arduino-based DMX spot light controller.
 Made to control 6 Cameo TS 60 W RGBW WH theatre spotlights at my school for ceremonial events.
+Currently allows you to adjust brightess and temperature of RGBW spotlights with a master dimmer channel.
 
 # Materials used
 - 1x Cheap knockoff Arduino (USB type B 2.0 port, ATmega328P CH340 and some extra pin holes next to ICSP pins (GND and 5V for easier soldering))
