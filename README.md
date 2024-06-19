@@ -21,3 +21,8 @@ Currently allows you to adjust brightess and temperature of RGBW spotlights with
 
 ## Code
 The code uses the DmxSimple arduino library to write DMX values and just reads potentiometer values to control the global dimmer brightness and the RGB channel values, which shift the color temp of the lights.
+
+## Wiring
+This fritzing image pretty much sums it up.
+
+<img src="https://github.com/emeraldtip/Simple-Spot-Controller/blob/master/Schematics/SimpleSpotController_bb.png" alt="Fritzing schematic" width="600">
