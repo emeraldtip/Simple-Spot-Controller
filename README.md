@@ -13,7 +13,7 @@ Currently allows you to adjust brightess and temperature of RGBW spotlights with
 
   <img src="https://github.com/emeraldtip/Simple-Spot-Controller/assets/48155462/1f7339a0-cedc-4423-9a0b-40a2b7cbbc71" alt="ACP potentiometer" width="100">
 
-- 1x MAX485 chip (as one wasn't available near me and the size is too small to solder to easily without a breakout board I bought a cheap USB-RS485 Adapter and soldered wires to the MAX485 on there)
+- 1x MAX485 chip (as one wasn't available near me and the size is too small to solder to easily without a breakout board, so I bought a cheap USB-RS485 Adapter and soldered wires to the MAX485 on there)
 - Female end of an XLR cable
 - Wires
 - 3D printer plastic (multicolor if you want to be fancy)
